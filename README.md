@@ -110,7 +110,7 @@ Software Skills
 *	Proficient use of all MS Office products       
 *	Expert use of MS Office Word, Excel and Access          
 *	General knowledge of database table structure and SQL (Introduction to SQL online class taken) 
-* General Knowledge of HTML5
+* General Knowledge of HTML5/CSS
 
 
 
