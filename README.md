@@ -1,20 +1,20 @@
 # Nicoleta D. Brandolini 
 
 
->6936 Della Drive apt 35       
-Orlando, Florida 32819       
-Cell: (407) 733-2428       
-E-mail: nicoletabrandolini@gmail.com        
+6936 Della Drive apt 35                 
+Orlando, Florida 32819                     
+Cell: (407) 733-2428                         
+E-mail: nicoletabrandolini@gmail.com                        
 
 
-###*Education*
->Columbia College, Columbia, Missouri B.S. degree December 2009             
-Major: Business Administration and Accounting             
-Specialization: Accounting Theory and Practice. GPA: 4.0 (A=4.0)         
-Valencia Community College, Orlando, Florida A.A degree May 2006           
-Major: Accounting. GPA: 3.9 (A=4.0)            
-Dunarea de Jos University, Galati, Romania B.S. degree July 1992        
-Major: Economics   
+###*Education*                  
+Columbia College, Columbia, Missouri B.S. degree December 2009                              
+Major: Business Administration and Accounting                            
+Specialization: Accounting Theory and Practice. GPA: 4.0 (A=4.0)                      
+Valencia Community College, Orlando, Florida A.A degree May 2006                     
+Major: Accounting. GPA: 3.9 (A=4.0)                            
+Dunarea de Jos University, Galati, Romania B.S. degree July 1992                     
+Major: Economics                 
 
 ###_Experience_
 ####07/2011 to 05/2013        
@@ -29,7 +29,7 @@ Major: Economics
 *	Provided leadership and participate in the development, implementation, and control of budget processes            
 *	Provided assistance to the Assistant Vice President of Budget and Auxiliary Services to formulate, recommend, evaluate and administer Board Rules and Administrative procedures as required for budget             
 +	Responsible for monitoring and distribution of lab and tech fee funds and provide regular status reports and analysis to the college-wide deans, campus presidents, Assistant Vice President of Budget and Auxiliary Services            
-+	Compiled periodic studies and analysis of data to identify trends and patterns that could impact resource distribution. Also, prepared special budget reports and cost analysis              
++	Compiled periodic studies and analysis of data to identify trends and patterns that could impact resource distribution       + Also, prepared special budget reports and cost analysis              
 +	Prepared projections of current year revenue and expenses and the resulting impact on fund balance            
 +	Monitored and budget all personnel positions including new positions, position reclassifications and position eliminations in collaboration with the Human Resources department         
 -	Assisted the Assistant Vice President of Budget and Auxiliary Services in the development, implementation and maintenance of the college multi-year financial model                     
