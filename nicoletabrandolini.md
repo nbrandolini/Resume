@@ -8,24 +8,24 @@ E-mail: nicoletabrandolini@gmail.com
 github: github.com/nbrandolini
 
 ## Education
-Ada Developers Academy - Cohort 9, Seattle WA -graduating December 2018
-Columbia College, Columbia, Missouri B.S. degree December 2009
+* Ada Developers Academy - Cohort 9, Seattle WA -graduating December 2018
+* Columbia College, Columbia, Missouri B.S. degree December 2009
 Major: Business Administration and Accounting
 Specialization: Accounting Theory and Practice. GPA: 4.0 (A=4.0)
-Valencia Community College, Orlando, Florida A.A degree May 2006                     
+* Valencia Community College, Orlando, Florida A.A degree May 2006                     
 Major: Accounting. GPA: 3.9 (A=4.0)                            
-Dunarea de Jos University, Galati, Romania B.S. degree July 1992                     
+* Dunarea de Jos University, Galati, Romania B.S. degree July 1992                     
 Major: Economics                 
  
 ## Experience
 
 05/2013 to 01/2018
 
-_Freelance accounting jobs 
+Freelance accounting jobs 
 
 07/2011 to 05/2013        
 
-_Director, Budget and Analysis             
+Director, Budget and Analysis             
 
 Valencia College, Orlando, FL  
 
@@ -45,7 +45,7 @@ Valencia College, Orlando, FL
 
 07/2006 to 06/30/2011 
 
-_Accounts Payable Coordinator
+Accounts Payable Coordinator
 
 Valencia Community College, Orlando, FL*       
 
@@ -62,7 +62,7 @@ Valencia Community College, Orlando, FL*
 
 06/2005 to 07/2006  
 
-_Accounts Receivable Fiscal Assistant
+Accounts Receivable Fiscal Assistant
 
 Valencia Community College, Orlando, FL 
 
@@ -75,7 +75,7 @@ Valencia Community College, Orlando, FL
 
 08/2003 to 06/2005        
 
-_Budget and Logistical Services Fiscal Assistant
+Budget and Logistical Services Fiscal Assistant
 
 Valencia Community College, Orlando, FL            
 
