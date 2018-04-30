@@ -5,7 +5,7 @@
 Seattle, Washington 98104                    
 Cell: (407) 733-2428                         
 E-mail: nicoletabrandolini@gmail.com                        
-github: github.com/nbrandolini
+[GitHub](http://github.com/nbrandolini)
 
 ## Education
 * Ada Developers Academy - Cohort 9, Seattle WA -graduating December 2018
@@ -21,11 +21,11 @@ Major: Economics
 
 05/2013 to 01/2018
 
-Freelance accounting jobs 
+#### Freelance accounting jobs 
 
 07/2011 to 05/2013        
 
-Director, Budget and Analysis             
+#### Director, Budget and Analysis             
 
 Valencia College, Orlando, FL  
 
@@ -45,9 +45,9 @@ Valencia College, Orlando, FL
 
 07/2006 to 06/30/2011 
 
-Accounts Payable Coordinator
+#### Accounts Payable Coordinator
 
-Valencia Community College, Orlando, FL*       
+Valencia Community College, Orlando, FL      
 
 * Provided daily supervision and evaluation of accounts payable staff and communicated effectively with staff and vendors (orally and written)                                               
 * Worked independently with minimal supervision with a diverse population inter-departmentally, with students and vendors     
@@ -62,7 +62,7 @@ Valencia Community College, Orlando, FL*
 
 06/2005 to 07/2006  
 
-Accounts Receivable Fiscal Assistant
+#### Accounts Receivable Fiscal Assistant
 
 Valencia Community College, Orlando, FL 
 
@@ -75,22 +75,21 @@ Valencia Community College, Orlando, FL
 
 08/2003 to 06/2005        
 
-Budget and Logistical Services Fiscal Assistant
+#### Budget and Logistical Services Fiscal Assistant
 
 Valencia Community College, Orlando, FL            
 
 *	Performed budget administration, budget versus spending analysis, processed budget revisions and status reports, and budget transfers and analysis for balancing of the budget                          
 *	Provided monthly review of college-wide lump-sum accounts and initiated reallocation of funds for overtime, adjuncts, overloads, and retirement incentive cost                          
 *	Assisted in the preparation, implementation and control of the operating budget for the college                 
-*	Analyzed monthly the college-wide budget by major object to insure balance to the last District Board of Trustees budget      
-*	Provided liaison, with the procurement and accounts payable office, in determining the proper general ledger codes used on financial documents as well as verifying funds availability                  
+*	Analyzed monthly the college-wide budget by major object to insure balance to the last District Board of Trustees budget      *	Provided liaison, with the procurement and accounts payable office, in determining the proper general ledger codes used on financial documents as well as verifying funds availability                  
 *	Reconciled, provided analysis and processed journal and or budget entries in relation to the College’s lapse, savings, and loss of salary dollars using Oracle and SAS data warehouse systems                     
 *	Maintained all proper and necessary accounting records for verification and procedures                
 * Prepared monthly budget amendments for submission to the Board of Trustee and to the Florida Department of Education as required              
 
 07/2001 to 07/2003 
 
-Billing Reconciliation Coordinator      
+#### Billing Reconciliation Coordinator      
 
 United Healthcare, Orlando, FL
 
@@ -100,7 +99,7 @@ United Healthcare, Orlando, FL
 
 05/1990 to 07/1997 
 
-Tax Accountant      
+#### Tax Accountant      
 
 Ministry of Public Finance, Romania
 
@@ -108,7 +107,7 @@ Ministry of Public Finance, Romania
 *	Completed financial statements and reports for the Minister of Finance in Bucharest          
 *	Completed all types of tax documents required by the Romanian Tax law         
 
-# Software Skills
+## Software Skills
 
 * Languages & Frameworks - Ruby, Ruby on Rails, HTML & CSS, JavaScript and React 
 * Core Concepts & Tools - TDD, OOD, Git and Source Control, PostgreSQL, Terminal, APIs
