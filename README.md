@@ -1,13 +1,14 @@
 # Nicoleta D. Brandolini 
 
 
-6936 Della Drive apt 35                 
-Orlando, Florida 32819                     
+910 8th Ave Apt 1312               
+Seattle, Washington 98104                    
 Cell: (407) 733-2428                         
 E-mail: nicoletabrandolini@gmail.com                        
 
 
-###*Education*                  
+###*Education*###  
+Ada Developers Academy - Cohort 9, Seattle WA - graduating December 2018
 Columbia College, Columbia, Missouri B.S. degree December 2009                              
 Major: Business Administration and Accounting                            
 Specialization: Accounting Theory and Practice. GPA: 4.0 (A=4.0)                      
@@ -16,11 +17,15 @@ Major: Accounting. GPA: 3.9 (A=4.0)
 Dunarea de Jos University, Galati, Romania B.S. degree July 1992                     
 Major: Economics                 
 
-###_Experience_
-####07/2011 to 05/2013        
+###Experience###
+
+####05/2013 to 01/2018
+
+*Freelance accounting jobs 
+
+####07/2011 to 05/2013###        
 
 **Director, Budget and Analysis**             
-
 
 *Valencia College, Orlando, FL*  
 
@@ -45,15 +50,13 @@ Major: Economics
 *Valencia Community College, Orlando, FL*       
 
 * Provided daily supervision and evaluation of accounts payable staff and communicated effectively with staff and vendors (orally and written)                                               
-* Worked independently with minimal supervision with a diverse population inter-departmentally, with students and vendors       
-+ Maintained accounts payable procedure and guidelines within Florida Statutes and established Valencia regulations                 
+* Worked independently with minimal supervision with a diverse population inter-departmentally, with students and vendors     
++ Maintained accounts payable procedure and guidelines within Florida Statutes and established Valencia regulations           
 +	Analyzed accounts payable data for all funds and prepare Accounts Payable Analysis Report, The Analysis of Accounts Payable by Vendor Type Report, and the Financial Statements distribution for the end-of-the year state reporting           
 +	Analyzed and prepare data for monthly Capital Outlay Reports, analyzed and reconciled the retainage account, and prepared reconciliation and adjusting entries for the Property Records department              
 +	Implemented, in Accounts Payable, the Banner Xtender application allowing on screen viewing of all invoices and supporting documentation               
 +	Liaison with IT department in testing and troubleshooting Banner applications and other software issues related to accounts payable functionality           
-+	Worked in conjunction with campus Business Office Coordinators in issuance of weekly student financial aid and refund checks     
-+ Reconciled and audited the student clearing account, the travel and cash advances accounts, and the retainage account        
-+	Assisted in the implementation of the Higher One disbursement services system for student financial aid and other          disbursements        
++	Worked in conjunction with campus Business Office Coordinators in issuance of weekly student financial aid and refund checks  + Reconciled and audited the student clearing account, the travel and cash advances accounts, and the retainage account        +	Assisted in the implementation of the Higher One disbursement services system for student financial aid and other          disbursements        
 +	Collaborated with the procurement department in developing a 38-page user guide, for the new SCT Banner Financial Module, and trained all the end users           
 + Regularly taught classes to new employees on how to use SCT Banner Financial Module               
 
@@ -107,10 +110,12 @@ Ministry of Public Finance, Romania
 
 Software Skills
 
+* Languages & Frameworks - Ruby, Ruby on Rails, HTML & CSS, JavaScript and React 
+* Core Concepts & Tools - TDD, OOD, Git and Source Control, PostgreSQL, Terminal, APIs
 *	Proficient use of all MS Office products       
 *	Expert use of MS Office Word, Excel and Access          
-*	General knowledge of database table structure and SQL (Introduction to SQL online class taken) 
-* General Knowledge of HTML5/CSS
+
+
 
 
 
